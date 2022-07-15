@@ -1,0 +1,12 @@
+.logo {
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+}
+
+.logo__img {
+  display: block;
+}
